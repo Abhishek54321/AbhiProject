@@ -13,6 +13,7 @@
 		19A5A7F81E4C7A9000B81564 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 19A5A7F61E4C7A9000B81564 /* Main.storyboard */; };
 		19A5A7FA1E4C7A9000B81564 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 19A5A7F91E4C7A9000B81564 /* Assets.xcassets */; };
 		19A5A7FD1E4C7A9000B81564 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 19A5A7FB1E4C7A9000B81564 /* LaunchScreen.storyboard */; };
+		19A5A8051E4C7B1B00B81564 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 19A5A8041E4C7B1B00B81564 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		19A5A7F91E4C7A9000B81564 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		19A5A7FC1E4C7A9000B81564 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		19A5A7FE1E4C7A9000B81564 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		19A5A8041E4C7B1B00B81564 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				19A5A7FB1E4C7A9000B81564 /* LaunchScreen.storyboard */,
 				19A5A7FE1E4C7A9000B81564 /* Info.plist */,
 				19A5A7ED1E4C7A9000B81564 /* Supporting Files */,
+				19A5A8041E4C7B1B00B81564 /* .gitignore */,
 			);
 			path = GitMergingXCuserState;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				19A5A8051E4C7B1B00B81564 /* .gitignore in Resources */,
 				19A5A7FD1E4C7A9000B81564 /* LaunchScreen.storyboard in Resources */,
 				19A5A7FA1E4C7A9000B81564 /* Assets.xcassets in Resources */,
 				19A5A7F81E4C7A9000B81564 /* Main.storyboard in Resources */,
